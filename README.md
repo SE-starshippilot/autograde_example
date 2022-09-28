@@ -26,7 +26,7 @@ print(avg_list(numbers))  //should be 3
 1. When the assignment is released, we will provide you with a link. Click link and accept the homework. This will create a repo in you GitHub.
 2. Clone this repository to your computer. (`git clone <repo url>`)
 3. Work on your codes.
-4. When you think you're ready, push your changes to github (`git push origin master`)
+4. When you think you're ready, push your changes to GitHub (`git push origin master`)
 5. GitHub Action will run the testcase, and you can check if you passed.
 
 ## Some warm reminders

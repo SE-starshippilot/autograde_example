@@ -4,7 +4,7 @@
 
 This repository is a demo for our coding assignments. Please note that **nothing in this repository is related to database!**
 
-## Question
+## Question Sample: Average of list
 
 Write a function called `avg_list` in [exercise.py](https://github.com/SE-starshippilot/autograde_example/blob/master/src/exercise.py) that returns the average of a list of number in python. The return should be rounded to int.
 

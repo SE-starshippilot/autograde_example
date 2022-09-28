@@ -9,6 +9,20 @@ This repository is a demo for our coding assignments. Please note that **nothing
 Write a function called `avg_list` in [exercise.py](https://github.com/SE-starshippilot/autograde_example/blob/master/src/exercise.py) that returns the average of a list of number in python. The return should be rounded to int.
 
 ```python
+def avg_list(numbers: list) -> int:
+"""
+
+Arguments:
+  numbers (list): a list of numbers
+ 
+Returns:
+  int: the average of the list, rounded
+"""
+  
+  #write your implementation here
+  pass
+
+
 numbers = []
 numbers.append(3)
 numbers.append(2)

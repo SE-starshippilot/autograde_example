@@ -32,5 +32,5 @@ print(avg_list(numbers))  //should be 3
 ## Some warm reminders
 
 - As mentioned in tutorial, make *constant*, *semantic* commits locally.
-- We **will** replace the testcase for grading, so please don't do testcase-oriented programmng XD.
+- We **will** replace the testcase for grading, so please don't do testcase-oriented programmng. ;)
 - You can push to your repository to perform test run as many times as you like.

@@ -42,6 +42,8 @@ print(avg_list(numbers))  //should be 3
 3. Work on your codes.
 4. When you think you're ready, push your changes to GitHub (`git push origin master`)
 5. GitHub Action will run the testcase, and you can check if you passed.
+  - You can also check this badge ⬇️
+  - ![testing](https://github.com/SE-starshippilot/autograde_example/blob/master/.github/workflows/workflow.yml)
 
 ## Some warm reminders
 
